@@ -1,0 +1,12 @@
+# IntelliJ
+.idea
+
+node_modules
+coverage
+coverage.json
+package-lock.json
+typechain-types
+
+# Hardhat Files
+cache
+artifacts
